@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1,test-1
+https://lb8.strmd.top/secure/iBawSafNXOaBCWYeldqzbJjmIVNOnhMd/alpha/stream/test-1/1/playlist.m3u8
+#EXTINF:-1,test-2
+https://lb8.strmd.top/secure/uCpSrffrRCOPvArMMdHEXXXUmhFDmlti/alpha/stream/test-2/1/playlist.m3u8
+#EXTINF:-1,test-3
+https://lb8.strmd.top/secure/UabcehRvacBBfeVQAaRbpUYvDQNpaXko/alpha/stream/test-3/1/playlist.m3u8
