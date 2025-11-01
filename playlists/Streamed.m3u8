@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",Streamed Sports Playlist
+# This playlist is auto-generated from streamed.pk live sports
+# Updated automatically when Puppeteer scraper runs
+# Currently empty - will populate when scraper extracts streams

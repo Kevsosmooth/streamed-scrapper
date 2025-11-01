@@ -21,6 +21,17 @@ Many streaming embed sites load M3U8 URLs dynamically via JavaScript, making tra
 - 🛠️ **Highly Configurable** - Customize every aspect
 - 🌐 **Universal** - Works with any embed site that loads M3U8 via network requests
 
+## 📺 Free Streamed Sports Playlist
+
+**Direct link:**
+```
+https://raw.githubusercontent.com/Kevsosmooth/streamed-scrapper/main/playlists/Streamed.m3u8
+```
+
+M3U8 playlist of live sports streams extracted from streamed.pk using this tool. Updated when the scraper runs.
+
+---
+
 ## Installation
 
 ```bash
