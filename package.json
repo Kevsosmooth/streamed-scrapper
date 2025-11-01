@@ -1,0 +1,40 @@
+{
+  "name": "puppeteer-m3u8-extractor",
+  "version": "1.0.0",
+  "description": "Fast, parallel M3U8 stream URL extractor using Puppeteer. Extracts HLS playlist URLs from embed pages that dynamically load streams via JavaScript.",
+  "main": "m3u8-extractor.js",
+  "scripts": {
+    "test": "node example-simple.js",
+    "example:simple": "node example-simple.js",
+    "example:streamed": "node example-streamed.js"
+  },
+  "keywords": [
+    "m3u8",
+    "hls",
+    "stream",
+    "extractor",
+    "puppeteer",
+    "scraper",
+    "parallel",
+    "embed",
+    "video",
+    "livestream"
+  ],
+  "author": "DaddyLive IPTV",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/puppeteer-m3u8-extractor"
+  },
+  "dependencies": {
+    "puppeteer-core": "^21.0.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "peerDependencies": {
+    "puppeteer-core": "^21.0.0"
+  },
+  "devDependencies": {}
+}

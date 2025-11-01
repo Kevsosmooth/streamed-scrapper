@@ -1,0 +1,10 @@
+# Python M3U8 Extractor Requirements
+
+# Playwright - Python version of Puppeteer
+playwright>=1.40.0
+
+# HTTP client for examples
+aiohttp>=3.9.0
+
+# Install browsers for Playwright:
+# python -m playwright install chromium
