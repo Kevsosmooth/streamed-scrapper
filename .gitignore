@@ -7,3 +7,7 @@ node_modules/
 *~
 .vscode/
 .idea/
+
+# Internal scripts (not for public repo)
+update-streamed-playlist.sh
+export-playlists-raw.sh
